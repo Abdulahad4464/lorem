@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    width: 1260px;
+    height: 600px;
+    background-color: rgba(68, 142, 206, 0.553);
+    overflow: hidden;
+}
+nav img{
+    width: 1260px;
+    height: 600px;
+    margin-top: -196px;
+}
+nav h2{
+    color: #ffffff;
+    transform:translateX(40px) translateY(10px) ;
+}
+nav select{
+    border: none;
+    color: #ffffff;
+    background-color:#ffffff00;
+    transform: translateX( 350px) translateY(40px);
+    margin:-40px 10px;
+}
+nav option{
+    font-size: 15px;
+
+}
+.dfgh{
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    color: #ffffff;
+    background: #FFFFFF33;
+    border: none;
+    transform: translateX(1030px)translateY(40px);
+}
+.dfghj{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border:none;
+    color: #ffffff;
+    background-color:#0C4A34;
+    transform: translateX(1050px)translateY(40px);
+}
+nav h1{
+    text-align: center;
+    width: 550px;
+    transform: translateY(130px)translateX(350px);
+    font-weight: 400;
+    font-size: 40px;
+    color: #ffffff;
+}
+.fjfj{
+    width: 60%;
+    height: 200px;
+    background-color: rgba(255, 255, 255, 0);
+    transform: translateX(470px)translateY(-250px);
+}
+.dfgho{
+    width: 150px;
+    height: 40px;
+    background-color: #0C4A34;
+    color: #ffffff;
+    border-radius:5px ;
+    border: none;
+    margin-left: 70px;
+}
+.vghhk{
+    width: 300px;
+    height: 200px;
+    background: #497557;
+    border-radius: 3px;
+    transform: translateX(456px)translateY(-40px);
+}
+.vghhk h3{
+    color: #ffffff;
+    font-size:16px;
+    font-weight:400;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.vghhk h4{
+    width: 250px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight:400 ;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.vghhk button{
+    width: 80px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #ffffff;
+    background: #FFFFFF33;
+    border-radius: 5px;
+    border: none;
+}
+.cvb{
+    color: #ffffff;
+    transform: translateX(-40px)translateY(150px);
+}
+.bnm{
+    color: #ffffff;
+    transform: translateX(160px)translateY(132px);
+}
